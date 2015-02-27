@@ -1,0 +1,11 @@
+c:\users\aandrienko\documents\visual studio 2013\Projects\MegaTester\MegaTester\bin\Debug\MegaTester.exe.config
+c:\users\aandrienko\documents\visual studio 2013\Projects\MegaTester\MegaTester\bin\Debug\MegaTester.exe
+c:\users\aandrienko\documents\visual studio 2013\Projects\MegaTester\MegaTester\bin\Debug\MegaTester.pdb
+c:\users\aandrienko\documents\visual studio 2013\Projects\MegaTester\MegaTester\obj\Debug\MegaTester.csprojResolveAssemblyReference.cache
+c:\users\aandrienko\documents\visual studio 2013\Projects\MegaTester\MegaTester\obj\Debug\MegaTester.Properties.Resources.resources
+c:\users\aandrienko\documents\visual studio 2013\Projects\MegaTester\MegaTester\obj\Debug\MegaTester.csproj.GenerateResource.Cache
+c:\users\aandrienko\documents\visual studio 2013\Projects\MegaTester\MegaTester\obj\Debug\MegaTester.exe
+c:\users\aandrienko\documents\visual studio 2013\Projects\MegaTester\MegaTester\obj\Debug\MegaTester.pdb
+C:\Users\Julia\Documents\Visual Studio 2013\Projects\MegaTester\MegaTester\bin\Debug\MegaTester.exe.config
+C:\Users\Julia\Documents\Visual Studio 2013\Projects\MegaTester\MegaTester\obj\Debug\MegaTester.exe
+C:\Users\Julia\Documents\Visual Studio 2013\Projects\MegaTester\MegaTester\obj\Debug\MegaTester.pdb
