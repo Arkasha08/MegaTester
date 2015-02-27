@@ -2,6 +2,7 @@
 
 namespace MegaTester
 {
+    [Serializable]
     class Guest:User
     {
         public Guest(String login, String password):base(login,password)

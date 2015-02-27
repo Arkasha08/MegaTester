@@ -16,16 +16,14 @@ namespace MegaTester
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Admin x = new Admin("sd", "ds");
-            x.AddUser(UserType.Moderator, "New", "New");
+            userList.Add(new Admin("Admin", "Admin"));
+            userList.Add(new Admin("Guest", ""));
+            ((Admin)userList[0]).AddUser(UserType.Moderator, "Moderator", "Moderator");
 
-            x.DeleteUser("New");
-
-
-            Application.Run(new Form1());
+            Application.Run(new AccessForm());
         }
 
-        // Should not be public
+// Should not be public
         public static List<User> userList = new List<User>();
         private static List<object> testList = new List<object>();
 

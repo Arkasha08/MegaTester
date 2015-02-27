@@ -3,6 +3,7 @@ using System.Collections;
 
 namespace MegaTester
 {
+    [Serializable]
     class Moderator:User
     {
         public Moderator(String login, String password):base(login,password)

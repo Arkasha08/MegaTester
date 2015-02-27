@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace MegaTester
 {
+    [Serializable]
     abstract class User
     {
         protected String login;

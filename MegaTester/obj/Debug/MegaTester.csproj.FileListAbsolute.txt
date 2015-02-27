@@ -9,3 +9,9 @@ c:\users\aandrienko\documents\visual studio 2013\Projects\MegaTester\MegaTester\
 C:\Users\Julia\Documents\Visual Studio 2013\Projects\MegaTester\MegaTester\bin\Debug\MegaTester.exe.config
 C:\Users\Julia\Documents\Visual Studio 2013\Projects\MegaTester\MegaTester\obj\Debug\MegaTester.exe
 C:\Users\Julia\Documents\Visual Studio 2013\Projects\MegaTester\MegaTester\obj\Debug\MegaTester.pdb
+C:\Users\Julia\Documents\Visual Studio 2013\Projects\MegaTester\MegaTester\obj\Debug\MegaTester.csprojResolveAssemblyReference.cache
+C:\Users\Julia\Documents\Visual Studio 2013\Projects\MegaTester\MegaTester\obj\Debug\MegaTester.AccessForm.resources
+C:\Users\Julia\Documents\Visual Studio 2013\Projects\MegaTester\MegaTester\obj\Debug\MegaTester.Properties.Resources.resources
+C:\Users\Julia\Documents\Visual Studio 2013\Projects\MegaTester\MegaTester\obj\Debug\MegaTester.csproj.GenerateResource.Cache
+C:\Users\Julia\Documents\Visual Studio 2013\Projects\MegaTester\MegaTester\bin\Debug\MegaTester.exe
+C:\Users\Julia\Documents\Visual Studio 2013\Projects\MegaTester\MegaTester\bin\Debug\MegaTester.pdb

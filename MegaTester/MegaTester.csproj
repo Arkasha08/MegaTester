@@ -45,18 +45,22 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Moderator.cs" />
+    <Compile Include="Serializer.cs" />
     <Compile Include="Student.cs" />
     <Compile Include="Guest.cs" />
     <Compile Include="Admin.cs" />
     <Compile Include="User.cs" />
-    <Compile Include="Form1.cs">
+    <Compile Include="AccessForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="AccessForm.Designer.cs">
+      <DependentUpon>AccessForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AccessForm.resx">
+      <DependentUpon>AccessForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
